@@ -1,0 +1,26 @@
+{
+    "characters": [
+        {
+            "name": "Isaac",
+            "health": 3
+        },
+        {
+            "name": "Magdalene",
+            "health": 4
+        },
+        {
+            "name": "Cain",
+            "health": 2
+        }
+    ],
+    "trinkets": [
+        {
+            "name": "A Missing Page",
+            "id": 48
+        },
+        {
+            "name": "AAA Battery",
+            "id": 3
+        }
+    ]
+}
